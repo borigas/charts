@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  prometheus-couchdb-exporter:
+  - apiVersion: v1
+    appVersion: v27.2.0
+    created: "2020-06-18T17:31:07.0422481-05:00"
+    description: A Helm chart to export the metrics from couchdb in Prometheus format.
+    digest: 00c0e75d3db9ffc72eebc01934a0f190b959997e1660e14b2d115f79706a5718
+    home: https://github.com/gesellix/couchdb-prometheus-exporter
+    keywords:
+    - couchdb-exporter
+    maintainers:
+    - email: github.gkarthiks@gmail.com
+      name: gkarthiks
+    name: prometheus-couchdb-exporter
+    sources:
+    - https://github.com/gesellix/couchdb-prometheus-exporter
+    urls:
+    - prometheus-couchdb-exporter-0.1.2.tgz
+    version: 0.1.2
+generated: "2020-06-18T17:31:07.0412237-05:00"
